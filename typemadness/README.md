@@ -10,3 +10,4 @@ An inventive software engineer can do weird things with TypeScript’s type syst
 - [Template literal types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
 - [`Parameters` type](https://www.typescriptlang.org/docs/handbook/utility-types.html#parameterstype)
 - (for Topicus.Education colleagues) [CumLaude query parameter service](https://github.com/topicusonderwijs/cumlaude/blob/10a982324830bcaec1f10171976c32d32cbcf1af/frontend/src/app/services/query-param-state.service.ts) 
+- [TDungeon](https://github.com/cassiozen/TDungeon) is a small adventure game that runs in the Typescript type system
